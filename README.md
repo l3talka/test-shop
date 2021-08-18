@@ -1,5 +1,11 @@
 # test-shop
-
+```
+Парсинг и подготовка структуры services/parser
+Vuex разбит на модули cart, products
+Обработка 404 page
+Описан один фильтр в main.js
+Получение данных через fetch
+```
 ## Project setup
 ```
 npm install
